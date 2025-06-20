@@ -125,7 +125,7 @@ const CrackersList =[
         { "name": "Race Car", "tamilName": "ரேஸ் கார்", "rate": "350", "unit": "Box" },
         { "name": "I cone (2 Pcs)", "tamilName": "ஐ கோன்", "rate": "450", "unit": "Box" },
         { "name": "Hot Chilli (10 Pcs)", "tamilName": "ஹாட் சில்லி", "rate": "80", "unit": "Box" },
-        { "name": "Mottu Patlu ( 2 in 1 Function0", "tamilName": "மோட்டு பட்லு 2 பங்ஷன்", "rate": "450", "unit": "Box" },
+        { "name": "Mottu Patlu ( 2 in 1 Function)", "tamilName": "மோட்டு பட்லு 2 பங்ஷன்", "rate": "450", "unit": "Box" },
         { "name": "Dora Singer", "tamilName": "டோரா சிங்கர்", "rate": "250", "unit": "Box" },
         { "name": "Madurai Malli", "tamilName": "மதுரை மல்லி", "rate": "350", "unit": "Box" },
         { "name": "Colourfull smoke shot (15)", "tamilName": "கலர் பவுடர் ஷாட்", "rate": "900", "unit": "Box" },
