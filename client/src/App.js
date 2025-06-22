@@ -2,13 +2,13 @@ import React,{useState,useEffect} from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Home/home';
 import ConfirmListPage from './ConfirmList/confirmList';
-import { CrackersList,giftBox } from './data-list';
+import { CrackersList } from './data-list';
 
 function App() {
   const [selectedItems, setSelectedItems] = useState([]);
   const [totalRate, setTotalRate] = useState(0);
   const [crackers, setCrackers] = useState(CrackersList);
-  const [giftBoxCrackers, setGiftBoxCrackers] = useState(giftBox);
+  // const [giftBoxCrackers, setGiftBoxCrackers] = useState();
   const [customerName, setCustomerName] = useState('');
   const [customerNumber, setCustomerNumber] = useState('');
   const [customerAddress, setCustomerAddress] = useState('');
@@ -17,7 +17,7 @@ function App() {
 
   useEffect(()=>{
     setCrackers(CrackersList);
-    setGiftBoxCrackers(giftBox)
+    // setGiftBoxCrackers(giftBox)
   },[downloaded])
 
   return (
@@ -37,8 +37,8 @@ function App() {
           setCustomerNumber={setCustomerNumber}
           customerAddress={customerAddress}
           setCustomerAddress={setCustomerAddress}
-          giftBoxCrackers={giftBoxCrackers}
-          setGiftBoxCrackers={setGiftBoxCrackers}
+          // giftBoxCrackers={giftBoxCrackers}
+          // setGiftBoxCrackers={setGiftBoxCrackers}
            />} />
           <Route path="/confirmList" element={<ConfirmListPage 
           setSelectedItems={setSelectedItems} 
@@ -55,8 +55,8 @@ function App() {
           setCustomerAddress={setCustomerAddress}
           setDownloaded={setDownloaded}
           downloaded={downloaded}
-          giftBoxCrackers={giftBoxCrackers}
-          setGiftBoxCrackers={setGiftBoxCrackers}
+          // giftBoxCrackers={giftBoxCrackers}
+          // setGiftBoxCrackers={setGiftBoxCrackers}
            />} />
         </Routes>
       </div>
