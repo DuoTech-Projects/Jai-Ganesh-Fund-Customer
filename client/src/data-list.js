@@ -18,7 +18,7 @@ const CrackersList =[
         { "name": "Flower Pots - Spl (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி ஸ்பெஷல்", "rate": "130", "unit": "Box" },
         { "name": "Flower Pots - Ashoka (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி அசோகா", "rate": "180", "unit": "Box" },
         { "name": "Flower Pots - Gaint (10 Pcs)", "tamilName": "புஷ்வானம் ஜெயிண்ட்", "rate": "220", "unit": "Box" },
-        { "name": "Flower Pots - Dlx (5 Pcs)", "tamilName": "புஷ்வானம் டீலக்ஸ்", "rate": "220", "unit": "Box" },
+        { "name": "Flower Pots - Dlx (5 Pcs)", "tamilName": "புஷ்வானம் டீலக்ஸ்", "rate": "250", "unit": "Box" },
         { "name": "Flower Pots - Super Dlx (2 Pcs)", "tamilName": "புஷ்வானம் சூப்பர் டீலக்ஸ்", "rate": "180", "unit": "Box" },
         { "name": "Colour Coti (10 Pcs)", "tamilName": "கலர் கோட்டி புஷ்வானம்", "rate": "280", "unit": "Box" },
         { "name": "Spl Colour Coti (10 Pcs)", "tamilName": "ஸ்பெஷல் கலர் கோட்டி", "rate": "360", "unit": "Box" },
@@ -31,7 +31,7 @@ const CrackersList =[
       "category": "GROUND CHAKKARS",
       "items": [
         { "name": "Ground Chakkar - Big (10 Pcs)", "tamilName": "சக்கரம் பெரியது (10 Pcs)", "rate": "45", "unit": "Box" },
-        { "name": "Ground Chakkar - Big (25 Pcs)", "tamilName": "சக்கரம் பெரியது (25 Pcs)", "rate": "55", "unit": "Box" },
+        { "name": "Ground Chakkar - Big (25 Pcs)", "tamilName": "சக்கரம் பெரியது (25 Pcs)", "rate": "110", "unit": "Box" },
         { "name": "Ground Chakkar - Asoka", "tamilName": "சக்கரம் அசோகா", "rate": "70", "unit": "Box" },
         { "name": "Ground Chakkar - Spl", "tamilName": "சக்கரம் ஸ்பெஷல்", "rate": "90", "unit": "Box" },
         { "name": "Ground Chakkar - Dlx", "tamilName": "சக்கரம் டீலக்ஸ்", "rate": "160", "unit": "Box" }
@@ -149,7 +149,7 @@ const CrackersList =[
         { "name": "Valcona Crackling (12 Shot)", "tamilName": "வல்கோனா 12 ஷாட்", "rate": "350", "unit": "Box" },
         { "name": "Free Fire Gun", "tamilName": "பிரீ பயர் துப்பாக்கி", "rate": "100", "unit": "Box" },
         { "name": "Pistal 5G (2 Pcs)", "tamilName": "பிஸ்டல் 5ஜி துப்பாக்கி", "rate": "350", "unit": "Box" },
-        { "name": "Water Falls", "tamilName": "வாட்டர் பால்ஸ்", "rate": "250", "unit": "Box" },
+        { "name": "Hand Sky Shot - 288", "tamilName": "கையில் பிடிக்கும் 288 ஷாட்", "rate": "2600", "unit": "Box" },
         { "name": "Pappu Shower", "tamilName": "பப்பு ஷவர்", "rate": "200", "unit": "Box" },
         { "name": "Animal / Pogo Shower ( 10 Pcs0", "tamilName": "அனிமல் / போகோ ஷவர்", "rate": "450", "unit": "Box" },
         { "name": "Metro Bus", "tamilName": "மெட்ரோ பஸ்", "rate": "450", "unit": "Box" },
