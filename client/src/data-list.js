@@ -13,18 +13,18 @@ const CrackersList =[
     {
       "category": "FLOWER POTS - SPL BRANDED ITEMS",
       "items": [
-        { "name": "Flower Pots - Small (10 Pcs)", "tamilName": "புஷ்வானம் / பூச்சட்டி சிறியது", "rate": "60", "unit": "Box" },
-        { "name": "Flower Pots - Big (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி பெரியது", "rate": "90", "unit": "Box" },
-        { "name": "Flower Pots - Spl (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி ஸ்பெஷல்", "rate": "130", "unit": "Box" },
-        { "name": "Flower Pots - Ashoka (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி அசோகா", "rate": "180", "unit": "Box" },
+        { "name": "Flower Pots - Small (10 Pcs) B", "tamilName": "புஷ்வானம் / பூச்சட்டி சிறியது", "rate": "60", "unit": "Box" },
+        { "name": "Flower Pots - Big (10 Pcs) B", "tamilName": "புஸ்வானம்/ பூச்சட்டி பெரியது", "rate": "90", "unit": "Box" },
+        { "name": "Flower Pots - Spl (10 Pcs) B", "tamilName": "புஸ்வானம்/ பூச்சட்டி ஸ்பெஷல்", "rate": "130", "unit": "Box" },
+        { "name": "Flower Pots - Ashoka (10 Pcs) B", "tamilName": "புஸ்வானம்/ பூச்சட்டி அசோகா", "rate": "180", "unit": "Box" },
         { "name": "Flower Pots - Gaint (10 Pcs)", "tamilName": "புஷ்வானம் ஜெயிண்ட்", "rate": "220", "unit": "Box" },
         { "name": "Flower Pots - Dlx (5 Pcs)", "tamilName": "புஷ்வானம் டீலக்ஸ்", "rate": "250", "unit": "Box" },
         { "name": "Flower Pots - Super Dlx (2 Pcs)", "tamilName": "புஷ்வானம் சூப்பர் டீலக்ஸ்", "rate": "180", "unit": "Box" },
-        { "name": "Colour Coti (10 Pcs)", "tamilName": "கலர் கோட்டி புஷ்வானம்", "rate": "280", "unit": "Box" },
-        { "name": "Spl Colour Coti (10 Pcs)", "tamilName": "ஸ்பெஷல் கலர் கோட்டி", "rate": "360", "unit": "Box" },
-        { "name": "Colour Coti Super Dlx (10 Pcs) (Bigsize)", "tamilName": "கலர் கோட்டி சூப்பர் டீலக்ஸ்", "rate": "720", "unit": "Box" },
-        { "name": "Welcome show - 5 Colour Function", "tamilName": "வெல்கம் ஷோ (5 கலர் )", "rate": "500", "unit": "Box" },
-        { "name": "Little Star (Sand Flower Pots)", "tamilName": "குஜராத் மண்சட்டி புஷ்வானம்", "rate": "600", "unit": "Box" }
+        { "name": "Colour Coti (10 Pcs) B", "tamilName": "கலர் கோட்டி புஷ்வானம்", "rate": "280", "unit": "Box" },
+        { "name": "Spl Colour Coti (10 Pcs) B", "tamilName": "ஸ்பெஷல் கலர் கோட்டி", "rate": "360", "unit": "Box" },
+        { "name": "Colour Coti Super Dlx (10 Pcs) (Bigsize) B", "tamilName": "கலர் கோட்டி சூப்பர் டீலக்ஸ்", "rate": "720", "unit": "Box" },
+        { "name": "Welcome show - 5 Colour Function B", "tamilName": "வெல்கம் ஷோ (5 கலர் )", "rate": "500", "unit": "Box" },
+        { "name": "Little Star (Sand Flower Pots) B", "tamilName": "குஜராத் மண்சட்டி புஷ்வானம்", "rate": "600", "unit": "Box" }
       ]
     },
     {
@@ -40,11 +40,11 @@ const CrackersList =[
     {
       "category": "GROUND CHAKKARS SPL BRANDED ITEMS",
       "items": [
-        { "name": "Ground Chakkar - Big (10 Pcs)", "tamilName": "சக்கரம் பெரியது (10 Pcs)", "rate": "55", "unit": "Box" },
-        { "name": "Ground Chakkar - Big (25 Pcs)", "tamilName": "சக்கரம் பெரியது (25 Pcs)", "rate": "130", "unit": "Box" },
-        { "name": "Ground Chakkar - Asoka", "tamilName": "சக்கரம் அசோகா", "rate": "90", "unit": "Box" },
-        { "name": "Ground Chakkar - Spl", "tamilName": "சக்கரம் ஸ்பெஷல்", "rate": "110", "unit": "Box" },
-        { "name": "Ground Chakkar - Dlx", "tamilName": "சக்கரம் டீலக்ஸ்", "rate": "200", "unit": "Box" },
+        { "name": "Ground Chakkar - Big (10 Pcs) B", "tamilName": "சக்கரம் பெரியது (10 Pcs)", "rate": "55", "unit": "Box" },
+        { "name": "Ground Chakkar - Big (25 Pcs) B", "tamilName": "சக்கரம் பெரியது (25 Pcs)", "rate": "130", "unit": "Box" },
+        { "name": "Ground Chakkar - Asoka B", "tamilName": "சக்கரம் அசோகா", "rate": "90", "unit": "Box" },
+        { "name": "Ground Chakkar - Spl B", "tamilName": "சக்கரம் ஸ்பெஷல்", "rate": "110", "unit": "Box" },
+        { "name": "Ground Chakkar - Dlx B", "tamilName": "சக்கரம் டீலக்ஸ்", "rate": "200", "unit": "Box" },
         { "name": "Ground Chakkar - Spinner", "tamilName": "பிளாஸ்டிக் சக்கரம்", "rate": "220", "unit": "Box" },
         { "name": "Disco Wheel", "tamilName": "டிஸ்கோ சக்கரம்", "rate": "150", "unit": "Box" },
         { "name": "Whistling wheel", "tamilName": "சவுண்ட் சக்கரம்", "rate": "160", "unit": "Box" },
@@ -286,10 +286,10 @@ const CrackersList =[
     {
       "category": "GARLAND ITEMS - SPL COUNT",
       "items": [
-        { "name": "1000 Digital Wala", "tamilName": "1000 டிஜிட்டல் சரவெடி", "rate": "260", "unit": "Pce" },
-        { "name": "2000 Digital Wala", "tamilName": "2000 டிஜிட்டல் சரவெடி", "rate": "520", "unit": "Pce" },
-        { "name": "5000 Digital Wala", "tamilName": "5000 டிஜிட்டல் சரவெடி", "rate": "1300", "unit": "Pce" },
-        { "name": "10000 Digital Wala", "tamilName": "10000 டிஜிட்டல் சரவெடி", "rate": "2600", "unit": "Pce" }
+        { "name": "1000 Digital Wala S", "tamilName": "1000 டிஜிட்டல் சரவெடி", "rate": "260", "unit": "Pce" },
+        { "name": "2000 Digital Wala S", "tamilName": "2000 டிஜிட்டல் சரவெடி", "rate": "520", "unit": "Pce" },
+        { "name": "5000 Digital Wala S", "tamilName": "5000 டிஜிட்டல் சரவெடி", "rate": "1300", "unit": "Pce" },
+        { "name": "10000 Digital Wala S", "tamilName": "10000 டிஜிட்டல் சரவெடி", "rate": "2600", "unit": "Pce" }
       ]
     },
     {
