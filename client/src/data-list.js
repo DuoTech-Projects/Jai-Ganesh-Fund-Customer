@@ -13,20 +13,20 @@ const CrackersList =[
     {
       "category": "FLOWER POTS - SPL BRANDED ITEMS",
       "items": [
-        { "name": "Flower Pots - Small (10 Pcs)", "tamilName": "புஷ்வானம் / பூச்சட்டி சிறியது", "rate": "65", "unit": "Box" },
-        { "name": "Flower Pots - Big (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி பெரியது", "rate": "110", "unit": "Box" },
-        { "name": "Flower Pots - Spl (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி ஸ்பெஷல்", "rate": "150", "unit": "Box" },
-        { "name": "Flower Pots - Ashoka (10 Pcs)", "tamilName": "புஸ்வானம்/ பூச்சட்டி அசோகா", "rate": "220", "unit": "Box" },
-        { "name": "Flower Pots - Gaint  (10 Pcs)", "tamilName": "புஷ்வானம் ஜெயிண்ட்", "rate": "250", "unit": "Box" },
-        { "name": "Flower Pots - Dlx (5 Pcs)", "tamilName": "புஷ்வானம் டீலக்ஸ்", "rate": "270", "unit": "Box" },
-        { "name": "Flower Pots - Super Dlx (2 Pcs)", "tamilName": "புஷ்வானம் சூப்பர் டீலக்ஸ்", "rate": "180", "unit": "Box" },
-        { "name": "Colour Coti  (10 Pcs)  - Brand", "tamilName": "கலர் கோட்டி புஷ்வானம்", "rate": "300", "unit": "Box" },
-        { "name": "Spl Colour Coti  (10 Pcs)", "tamilName": "ஸ்பெஷல் கலர் கோட்டி", "rate": "370", "unit": "Box" },
-        { "name": "Colour Coti Super Dlx (10 Pcs) (Bigsize)", "tamilName": "கலர் கோட்டி சூப்பர் டீலக்ஸ்", "rate": "720", "unit": "Box" },
-        { "name": "Welcome show - 5 Colour  Function", "tamilName": "வெல்கம் ஷோ (5 கலர் )", "rate": "550", "unit": "Box" },
-        { "name": "Little Star (Sand Flower Pots )", "tamilName": "குஜராத் மண்சட்டி புஷ்வானம்", "rate": "650", "unit": "Box" },
-        { "name": "Lucky /Gypsy         (5pcs)", "tamilName": "லக்கி / ஜிப்ஸி", "rate": "270", "unit": "Box" },
-        { "name": "Tri colour  (5pcs)", "tamilName": "3 கலர் புஷ்வானம்", "rate": "320", "unit": "Box" }
+        { "name": "Flower Pots - Small (10 Pcs) B", "tamilName": "புஷ்வானம் / பூச்சட்டி சிறியது", "rate": "65", "unit": "Box" },
+        { "name": "Flower Pots - Big (10 Pcs) B", "tamilName": "புஸ்வானம்/ பூச்சட்டி பெரியது", "rate": "110", "unit": "Box" },
+        { "name": "Flower Pots - Spl (10 Pcs) B", "tamilName": "புஸ்வானம்/ பூச்சட்டி ஸ்பெஷல்", "rate": "150", "unit": "Box" },
+        { "name": "Flower Pots - Ashoka (10 Pcs) B", "tamilName": "புஸ்வானம்/ பூச்சட்டி அசோகா", "rate": "220", "unit": "Box" },
+        { "name": "Flower Pots - Gaint  (10 Pcs) B", "tamilName": "புஷ்வானம் ஜெயிண்ட்", "rate": "250", "unit": "Box" },
+        { "name": "Flower Pots - Dlx (5 Pcs) B", "tamilName": "புஷ்வானம் டீலக்ஸ்", "rate": "270", "unit": "Box" },
+        { "name": "Flower Pots - Super Dlx (2 Pcs) B", "tamilName": "புஷ்வானம் சூப்பர் டீலக்ஸ்", "rate": "180", "unit": "Box" },
+        { "name": "Colour Coti  (10 Pcs)  - Brand B", "tamilName": "கலர் கோட்டி புஷ்வானம்", "rate": "300", "unit": "Box" },
+        { "name": "Spl Colour Coti  (10 Pcs) B", "tamilName": "ஸ்பெஷல் கலர் கோட்டி", "rate": "370", "unit": "Box" },
+        { "name": "Colour Coti Super Dlx (10 Pcs) (Bigsize) B", "tamilName": "கலர் கோட்டி சூப்பர் டீலக்ஸ்", "rate": "720", "unit": "Box" },
+        { "name": "Welcome show - 5 Colour  Function B", "tamilName": "வெல்கம் ஷோ (5 கலர் )", "rate": "550", "unit": "Box" },
+        { "name": "Little Star (Sand Flower Pots ) B", "tamilName": "குஜராத் மண்சட்டி புஷ்வானம்", "rate": "650", "unit": "Box" },
+        { "name": "Lucky /Gypsy (5pcs) B", "tamilName": "லக்கி / ஜிப்ஸி", "rate": "270", "unit": "Box" },
+        { "name": "Tri colour  (5pcs) B", "tamilName": "3 கலர் புஷ்வானம்", "rate": "320", "unit": "Box" }
       ]
     },
     {
@@ -42,18 +42,18 @@ const CrackersList =[
     {
       "category": "GROUND CHAKKARS SPL BRANDED ITEMS",
       "items": [
-        { "name": "Ground Chakkar - Big (10 Pcs)", "tamilName": "சக்கரம் பெரியது (10 Pcs)", "rate": "60", "unit": "Box" },
-        { "name": "Ground Chakkar - Big (25 Pcs)", "tamilName": "சக்கரம் பெரியது (25 Pcs)", "rate": "140", "unit": "Box" },
-        { "name": "Ground Chakkar - Asoka", "tamilName": "சக்கரம் அசோகா", "rate": "90", "unit": "Box" },
-        { "name": "Ground Chakkar - Spl", "tamilName": "சக்கரம் ஸ்பெஷல்", "rate": "100", "unit": "Box" },
-        { "name": "Ground Chakkar - Dlx", "tamilName": "சக்கரம் டீலக்ஸ்", "rate": "220", "unit": "Box" },
-        { "name": "Ground Chakkar - Spinner", "tamilName": "பிளாஸ்டிக்  சக்கரம்", "rate": "220", "unit": "Box" },
-        { "name": "Disco Wheel", "tamilName": "டிஸ்கோ சக்கரம்", "rate": "150", "unit": "Box" },
-        { "name": "Whistling wheel", "tamilName": "சவுண்ட் சக்கரம்", "rate": "180", "unit": "Box" },
-        { "name": "4 X 4 Colour Star Wheel", "tamilName": "4 X4 பேன்சி சக்கரம்", "rate": "270", "unit": "Box" },
-        { "name": "900 CC ( Colour chakkaram)", "tamilName": "900 CC கலர் சக்கரம்", "rate": "270", "unit": "Box" },
-        { "name": "Planet Wheeling Show ( Crackling chakkaram)", "tamilName": "கிராக்லிங் சக்கரம்", "rate": "270", "unit": "Box" },
-        { "name": "Choklate Chakkar", "tamilName": "சாக்லட் சக்கரம்", "rate": "220", "unit": "Box" }
+        { "name": "Ground Chakkar - Big (10 Pcs) B", "tamilName": "சக்கரம் பெரியது (10 Pcs)", "rate": "60", "unit": "Box" },
+        { "name": "Ground Chakkar - Big (25 Pcs) B", "tamilName": "சக்கரம் பெரியது (25 Pcs)", "rate": "140", "unit": "Box" },
+        { "name": "Ground Chakkar - Asoka B", "tamilName": "சக்கரம் அசோகா", "rate": "90", "unit": "Box" },
+        { "name": "Ground Chakkar - Spl B", "tamilName": "சக்கரம் ஸ்பெஷல்", "rate": "100", "unit": "Box" },
+        { "name": "Ground Chakkar - Dlx B", "tamilName": "சக்கரம் டீலக்ஸ்", "rate": "220", "unit": "Box" },
+        { "name": "Ground Chakkar - Spinner B", "tamilName": "பிளாஸ்டிக்  சக்கரம்", "rate": "220", "unit": "Box" },
+        { "name": "Disco Wheel B", "tamilName": "டிஸ்கோ சக்கரம்", "rate": "150", "unit": "Box" },
+        { "name": "Whistling wheel B", "tamilName": "சவுண்ட் சக்கரம்", "rate": "180", "unit": "Box" },
+        { "name": "4 X 4 Colour Star Wheel B", "tamilName": "4 X4 பேன்சி சக்கரம்", "rate": "270", "unit": "Box" },
+        { "name": "900 CC ( Colour chakkaram) B", "tamilName": "900 CC கலர் சக்கரம்", "rate": "270", "unit": "Box" },
+        { "name": "Planet Wheeling Show ( Crackling chakkaram) B", "tamilName": "கிராக்லிங் சக்கரம்", "rate": "270", "unit": "Box" },
+        { "name": "Choklate Chakkar B", "tamilName": "சாக்லட் சக்கரம்", "rate": "220", "unit": "Box" }
       ]
     },
     {
